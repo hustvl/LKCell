@@ -127,6 +127,13 @@ You can click [🤗 Hugging Face Space](https://huggingface.co/spaces/xiazhi/LKC
 
 ## Citation
 ```latex
-@article{},
+@misc{cui2024lkcellefficientcellnuclei,
+      title={LKCell: Efficient Cell Nuclei Instance Segmentation with Large Convolution Kernels}, 
+      author={Ziwei Cui and Jingfeng Yao and Lunbin Zeng and Juan Yang and Wenyu Liu and Xinggang Wang},
+      year={2024},
+      eprint={2407.18054},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2407.18054}, 
 }
 ```
