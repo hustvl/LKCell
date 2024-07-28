@@ -114,10 +114,15 @@ We provide to script to create evaluation results: [`inference_cellvit_experimen
 
 ### Inference
 
-Model checkpoints can be downloaded here:
+Model checkpoints can be downloaded here, You can choose download from Google Drive or HuggingFace :
 
-- [LKCell-L](https://drive.google.com/drive/folders/1r4vCwcyHgLtMJkr2rhFLox6SDldB2p7F?usp=drive_link) 🚀
-- [LKCell-B](https://drive.google.com/drive/folders/1i7SrHloSsGZSbesDZ9hBxbOG4RnaPhQU?usp=drive_link)
+- Google Drive 
+  - [LKCell-L](https://drive.google.com/drive/folders/1r4vCwcyHgLtMJkr2rhFLox6SDldB2p7F?usp=drive_link) 🚀
+  - [LKCell-B](https://drive.google.com/drive/folders/1i7SrHloSsGZSbesDZ9hBxbOG4RnaPhQU?usp=drive_link)
+- HuggingFace 
+  - [LKCell-L](https://huggingface.co/xiazhi/LKCell-L) 🚀
+  - [LKCell-B](https://huggingface.co/xiazhi/LKCell-B)
+
 
 You can click [🤗 Hugging Face Space](https://huggingface.co/spaces/xiazhi/LKCell) to quickly perform model inference.
 
