@@ -110,11 +110,11 @@ The important file is the configuration file, in which all paths are set, the mo
 
 ### Evaluation
 In our paper, we did not (!) use early stopping, but rather train all models for 100 to eliminate selection bias but have the largest possible database for training. Therefore, evaluation neeeds to be performed with the `latest_checkpoint.pth` model and not the best early stopping model.
-We provide to script to create evaluation results: [`inference_cellvit_experiment.py`](cell_segmentation/inference/inference_cellvit_experiment.py) for PanNuke and [`inference_cellvit_monuseg.py`](cell_segmentation/inference/inference_cellvit_monuseg.py) for MoNuSeg.
+We provide a script to create evaluation results: [`inference_cellvit_experiment.py`](cell_segmentation/inference/inference_cellvit_experiment.py) for PanNuke and [`inference_cellvit_monuseg.py`](cell_segmentation/inference/inference_cellvit_monuseg.py) for MoNuSeg.
 
 ### Inference
 
-Model checkpoints can be downloaded here, You can choose download from Google Drive or HuggingFace :
+Model checkpoints can be downloaded here, You can choose to download from Google Drive or HuggingFace :
 
 - Google Drive 
   - [LKCell-L](https://drive.google.com/drive/folders/1r4vCwcyHgLtMJkr2rhFLox6SDldB2p7F?usp=drive_link) 🚀
@@ -127,8 +127,9 @@ Model checkpoints can be downloaded here, You can choose download from Google Dr
 You can click [🤗 Hugging Face Space](https://huggingface.co/spaces/xiazhi/LKCell) to quickly perform model inference.
 
 
+### Acknowledgement
 
-
+This project is built upon [CellViT](https://github.com/TIO-IKIM/CellViT) and [UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet). Thanks for these awesome repos!
 
 ## Citation
 ```latex
