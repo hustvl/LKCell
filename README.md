@@ -127,7 +127,7 @@ Model checkpoints can be downloaded here, You can choose to download from Google
 You can click [🤗 Hugging Face Space](https://huggingface.co/spaces/xiazhi/LKCell) to quickly perform model inference.
 
 
-### Acknowledgement
+## Acknowledgement
 
 This project is built upon [CellViT](https://github.com/TIO-IKIM/CellViT) and [UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet). Thanks for these awesome repos!
 
