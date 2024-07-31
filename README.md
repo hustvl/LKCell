@@ -50,7 +50,7 @@ conda activate lkcell
 pip install -r requirements.txt
 ```
 
-Note: (1) preferred torch version is 2.0; (2) If you find problem in installing `depthwise-conv2d-implicit-gemm==0.0.0` , please follow the instruction in [here](https://github.com/AILab-CVC/UniRepLKNet).
+Note: (1) preferred torch version is 2.0; (2) If you find problem in installing `depthwise-conv2d-implicit-gemm==0.0.0` , please follow the instruction in [here](https://github.com/AILab-CVC/UniRepLKNet#use-an-efficient-large-kernel-convolution-with-pytorch).
 
 <!-- 1. Clone the repository:
   `git clone https://github.com/ziwei-cui/LKCellv1.git`
@@ -59,7 +59,7 @@ Note: (1) preferred torch version is 2.0; (2) If you find problem in installing 
 4. Install torch (>=2.0) for your system, as described [here](https://pytorch.org/get-started/locally/). Preferred version is 2.0, see [optional_dependencies](./optional_dependencies.txt) for help. You can find all version here: https://pytorch.org/get-started/previous-versions/
 
 5. Install optional dependencies `pip install -r requirements.txt`.
-6. If you find problem in installing `depthwise-conv2d-implicit-gemm==0.0.0` , please follow the instruction in [here](https://github.com/AILab-CVC/UniRepLKNet) -->
+6. If you find problem in installing `depthwise-conv2d-implicit-gemm==0.0.0` , please follow the instruction in [here](https://github.com/AILab-CVC/UniRepLKNet#use-an-efficient-large-kernel-convolution-with-pytorch) -->
 
 
 
@@ -81,7 +81,7 @@ We are currently using the following folder structure:
 ├── models                # Machine Learning Models (PyTorch implementations)
 │   └── segmentation      # LKCell Code
 ├── datamodel             # Code of dataclass :Graph Data , WSI object , ...
-├── preprocessing         # Code of preprocesssing : Encoding , Patch Extraction , ...
+├── preprocessing         # Code of preprocessing : Encoding , Patch Extraction , ...
 ```
 
 
