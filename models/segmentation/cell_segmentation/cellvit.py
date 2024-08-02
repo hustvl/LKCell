@@ -21,6 +21,7 @@ from monai.utils import InterpolateMode
 from .cellvit_unirepLKnet import UniRepLKNet
 from .replknet import  *
 
+from huggingface_hub import PyTorchModelHubMixin
 
 
 class LayerNorm(nn.Module):
@@ -258,7 +259,7 @@ class SegmentationHead(nn.Sequential):
 
 
 
-class CellViT(UniRepLKNet):
+class CellViT(UniRepLKNet,PyTorchModelHubMixin):
     
     def __init__(
         self,
