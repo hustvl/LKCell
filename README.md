@@ -6,7 +6,7 @@
 
 [![Paper](https://img.shields.io/badge/cs.CV-2407.18054-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2407.18054)
 [![Python 3.9.7](https://img.shields.io/badge/python-3.9.7-blue.svg)](https://www.python.org/downloads/release/python-360/)
-[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![license](https://img.shields.io/badge/license-MIT-orange)](LICENSE)
 [![authors](https://img.shields.io/badge/by-hustvl-green)](https://github.com/hustvl)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Space-Demo-yellow)](https://huggingface.co/spaces/xiazhi/LKCell)
 
