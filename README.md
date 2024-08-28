@@ -10,6 +10,7 @@
 [![authors](https://img.shields.io/badge/by-hustvl-green)](https://github.com/hustvl)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Space-Demo-yellow)](https://huggingface.co/spaces/xiazhi/LKCell)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lkcell-efficient-cell-nuclei-instance/panoptic-segmentation-on-pannuke)](https://paperswithcode.com/sota/panoptic-segmentation-on-pannuke?p=lkcell-efficient-cell-nuclei-instance)
 
 [Ziwei Cui](https://github.com/ziwei-cui) <sup>1*</sup>, [Jingfeng Yao](https://github.com/JingfengYao) <sup>1*</sup>, [Lunbin Zeng](https://github.com/xiazhi1) <sup>1</sup>, [Juan Yang]() <sup>2</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu) <sup>1</sup>, [Xinggang Wang](https://xwcv.github.io/) <sup>1,📧</sup>
 
